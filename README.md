@@ -1,7 +1,6 @@
-# Daily-Tafsir
-Daily Tafsir is a mobile app offering daily Quranic verses with concise tafsir. Users can receive verse notifications, listen to recitations, and explore reflections through a simple interface. Built using Flutter/React Native, it integrates the Quran API for verse retrieval and Firebase for data management.
-
 # Daily Tafsir – Quranic Reflections App
+
+![Daily Tafsir Logo](https://i.imgur.com/7z6ty4L.png) <!-- Example logo, replace with your own if available -->
 
 **Daily Tafsir** is a cross-platform mobile application designed to deliver daily Quranic verses along with short tafsir (exegesis) and reflections. The app aims to help users deepen their understanding of the Quran by providing concise explanations and audio recitations, making it a valuable resource for daily spiritual growth.
 
@@ -26,7 +25,19 @@ Daily Tafsir is a mobile app offering daily Quranic verses with concise tafsir. 
   - **Firebase**: Utilized for user authentication, data storage, and real-time updates, ensuring a seamless experience.
 - **Animations**:
   - **Lottie**: Used for smooth and interactive animations throughout the app.
-  - **Islamic-themed animations and images**: Sourced from platforms like LottieFiles, Unsplash, and Pexels to enhance the visual appeal.
+  - **Islamic-themed animations**: Sourced from [LottieFiles](https://lottiefiles.com/) for engaging user interactions.
+
+## Animations and Images
+
+Here are some examples of animations and images you can include:
+
+### Lottie Animation Example
+![Example Animation](https://assets8.lottiefiles.com/packages/lf20_qyp6x5nb.json) <!-- Lottie animation URL -->
+*Lottie animations can be added for engaging transitions and interactions within the app.*
+
+### Background Images
+![Islamic Background](https://images.unsplash.com/photo-1524536938671-12d8971a49bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGlzbGFtJTIwZ29sZCUyMHBhdHRlcm58ZW58MHx8fHwxNjYxMzE4MzMz&ixlib=rb-1.2.1&q=80&w=1080) <!-- Unsplash Islamic image -->
+*High-quality images of mosques, calligraphy, or landscapes can enhance the app's visual appeal.*
 
 ## Getting Started
 
